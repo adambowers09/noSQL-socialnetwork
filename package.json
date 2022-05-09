@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nosql-socialnetwork",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adambowers09/noSQL-socialnetwork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adambowers09/noSQL-socialnetwork/issues"
+  },
+  "homepage": "https://github.com/adambowers09/noSQL-socialnetwork#readme"
+}
